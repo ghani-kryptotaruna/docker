@@ -15,3 +15,6 @@ contoh :
 $ sudo usermod -aG dokcer ghani
 
 $ newgrp docker
+
+$ docker --version 
+Docker version 29.3.0, build 5927d80
